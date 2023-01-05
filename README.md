@@ -1,19 +1,19 @@
 
 <img id="masthead-image" src="https://images.squarespace-cdn.com/content/v1/5a2af82ecd39c395c72fd34a/1589388435994-Y8FZHRXR0IWU8FND5YME/Mozilla.gif?format=750w" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Gabriela Espinoza Picado</h1>
-<h3 align="center">Im Msc in Information Technology</h3>
+<h3 align="center">Msc in Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif?cid=790b76112e7c78ef1c31691f57559a741dc8a77437240c19&rid=giphy.gif&ct=g">
 
 
 
 
-- 🌱 I’m currently learning **data science, web developer**
+- 🌱 I’m currently learning **data science, web developer, UI/UX, always learning new technologies**
 
 - 👨‍💻 All of my projects are available at [https://gespynoza.github.io/](https://gespynoza.github.io/)
 
 - 📝 I regularly write articles on [https://gespynoza.github.io/](https://gespynoza.github.io/)
 
-- 💬 Ask me about **Data analytics**
+- 💬 Ask me about **data science, web developer, UI/UX, gender, travels**
 
 - 📫 How to reach me **g.espinozapicado@gmail.com**
 
