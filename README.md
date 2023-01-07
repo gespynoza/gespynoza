@@ -5,6 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/6EWyszhJ2kL3ceQuD2/giphy.gif?cid=790b76112e7c78ef1c31691f57559a741dc8a77437240c19&rid=giphy.gif&ct=g">
 
 
+<h2 align="center">
+:woman_mechanic: Project under construction :construction: 	:traffic_light:
+  
+  
+  
+</h2>
 
 
 - 🌱 I’m currently learning **data science, web developer, UI/UX, always learning new technologies**
